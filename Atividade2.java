@@ -1,5 +1,5 @@
-import javax.swing.*;
 import java.util.*;
+import javax.swing.*;
 
 public class Atividade2 {
     public static void main(String[] args) {
